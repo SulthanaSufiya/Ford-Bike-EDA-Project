@@ -51,8 +51,7 @@ Analyze bike-sharing trip data to:
 3. Open and execute the `Ford_Bike_EDA.ipynb` notebook on Google Colab or Jupyter Notebook.
 
 ## 🔗 Project Link
-- [Paste your GitHub link here after publishing]
-
+- https://github.com/SulthanaSufiya/Ford-Bike-EDA-Project.git
 ---
 
 ✅ Feel free to fork or star this repo if you find it useful!
